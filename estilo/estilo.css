@@ -1,10 +1,17 @@
-#site{
-	background-color: #e2f3e2;
+#tlt{
+	background-color: blue;
+	background-size: 100% 100%;
+	text-align: center;
+}
+#img{
+	text-align: center;
+}
+#texto{
+	text-align: left;
 }
 h1 {
 	font-size: 30px;
 }
 h1,p {
 	color: black;
-	text-align: center;
 }
