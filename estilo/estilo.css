@@ -1,7 +1,10 @@
+#site{
+	background-color: #e2f3e2;
+}
 h1 {
 	font-size: 30px;
-	text-align: center;
 }
-p {
-	color: white;
+h1,p {
+	color: black;
+	text-align: center;
 }
